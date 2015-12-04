@@ -1,19 +1,4 @@
-/**************************************************************************
-							Yiming Yu
-							cs100feu
 
-							Xiaoju Guo
-							xig061
-			
-							CSE100 FA2015
-				Assignemnt 2
-File Name:	RST.cpp
-Description:  	The rst.hpp file will be used to maintain the random search 
-		tree structure and functionality. Subclass the BST class 
-		template of the previous assignment to define a class 
-		template named RST, which implements a randomized search 
-		tree.	
-**************************************************************************/
 #ifndef RST_HPP
 #define RST_HPP
 #include "BST.hpp"
