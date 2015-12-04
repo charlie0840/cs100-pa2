@@ -1,17 +1,4 @@
-/******************************************************************************
- 								Yiming Yu
-								cs100feu
 
-								Xiaoju Guo
-								xig061
-				
-								CSE100 FA2015
-				Assignemnt 2
-File Name:	benchtree.cpp
-Description:  	permits benchmarking the performance of a RST implementation, 
-		an ordinary BST implementation, and the C++ STL std::set 
-		structure (red-black tree).
-******************************************************************************/
 #include "RST.hpp"
 #include "countint.hpp"
 #include <iostream>
